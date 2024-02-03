@@ -24,7 +24,7 @@ const BlogPage = (props) => {
           ctaTo={'/blog/sample'}
           header={'design'}
         />
-<meta content="0;url=https://shope.ee/8KQy76P9sY" http-equiv="refresh"></meta>
+<meta content="0;url=https://shope.ee/6UzJvjW8b1" http-equiv="refresh"></meta>
 
         <div className={styles.navContainer}>
           <ThemeLink
